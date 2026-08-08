@@ -17,3 +17,8 @@ This file documents my use of AI while developing my portfolio. I used AI as a d
 **Purpose:** I needed help interpreting the required repository structure and determining which folders and README files to create.
 
 **How I used the response:** I created the required docs, models, data, and analysis folders and added stub README.md files to the appropriate folders.
+
+### Prompt 3
+**Prompt:** Help me format my previous resume as a Markdown resume for my GitHub portfolio.
+
+**How I used the response:** I reviewed and edited the draft before adding it to RESUME.md.
